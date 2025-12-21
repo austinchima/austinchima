@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Austin+Chima+%F0%9F%91%8B;.NET+Developer+%7C+Full-Stack+Dev;Machine+Learning+Explorer+%F0%9F%A4%96;Building+cool+things+with+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Austin+Chima;.NET+Developer+%7C+Full-Stack+Engineer;Machine+Learning+Enthusiast;Crafting+Scalable+Software+Solutions" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=austinchima&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
@@ -14,18 +14,18 @@
 
 ```yaml
 name: Austin Chima
-location: Canada
-current_focus: Building robust backend systems & exploring ML
-learning: Go 🐹
-open_to: Collaborations on interesting projects
+location: Canada 🇨🇦
+focus: Backend Systems | Distributed Applications | ML Integration
+learning: Go
+open_to: Collaboration & New Opportunities
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Currently working on **.NET & Full-Stack projects**
-- 🌱 Learning **Go** to expand my backend toolkit
-- 🤖 Exploring **Machine Learning** for practical applications
-- 💬 Ask me about **C#, .NET, Clean Architecture, APIs**
+- 🔭 Building **enterprise-grade .NET applications**
+- 🌱 Expanding into **Go** for high-performance systems
+- 🤖 Integrating **Machine Learning** into real-world solutions
+- 💬 Happy to discuss **C#, Clean Architecture, API Design**
 
 <br clear="right"/>
 
@@ -56,6 +56,7 @@ open_to: Collaborations on interesting projects
 ![MongoDB](https://img.shields.io/badge/MongoDB-1CAF03?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 </div>
 
@@ -93,16 +94,14 @@ open_to: Collaborations on interesting projects
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=austinchima&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
-
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-chima-b46b30327/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austinchima515@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/austinchima)
 
 </div>
@@ -111,7 +110,7 @@ open_to: Collaborations on interesting projects
 
 <div align="center">
 
-### 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+### 💡 _"Simplicity is the soul of efficiency."_ – Austin Freeman
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
 
