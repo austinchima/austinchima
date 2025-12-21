@@ -1,0 +1,19 @@
+name: Snake Evolution
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: miccy/snake-evolution@v1.2.3
+        with:
+          github_user_name: austinchima
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/snake.svg
+          theme: github-dark
+          year: 2024
