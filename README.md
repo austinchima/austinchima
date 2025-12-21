@@ -91,15 +91,8 @@ open_to: Collaborations on interesting projects
 
 ## 🐍 Contribution Graph
 
-<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=austinchima&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinchima/austinchima/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinchima/austinchima/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/austinchima/austinchima/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
