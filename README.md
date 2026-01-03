@@ -15,8 +15,8 @@
 ```yaml
 name: Austin Chima
 location: Canada 🇨🇦
-focus: Backend Systems | Distributed Applications | ML Integration
-learning: Go
+focus: Full-Stack Software Development
+learning: Golang
 open_to: Collaboration & New Opportunities
 ```
 
