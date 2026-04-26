@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Austin+Chima;.NET+Developer+%7C+Full-Stack+Engineer;Machine+Learning+Enthusiast;Crafting+Scalable+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Austin+Chima;.NET+Developer+%7C+Full-Stack+Engineer;Learning+Each+Step+Of+The+Way" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=austinchima&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
