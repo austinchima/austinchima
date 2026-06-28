@@ -16,7 +16,7 @@
 name: Austin Chima
 location: Canada 🇨🇦
 focus: Full-Stack Software Development
-learning: Golang
+learning: Golang (Go)
 open_to: Collaboration & New Opportunities
 ```
 
@@ -24,8 +24,8 @@ open_to: Collaboration & New Opportunities
 
 - 🔭 Building **enterprise-grade .NET applications**
 - 🌱 Expanding into **Go** for high-performance systems
-- 🤖 Integrating **Machine Learning** into real-world solutions
-- 💬 Happy to discuss **C#, Clean Architecture, API Design**
+- 🤖 Integrating **AI** into real-world solutions
+- 💬 Working the craft with each passing day
 
 <br clear="right"/>
 
@@ -47,16 +47,18 @@ open_to: Collaboration & New Opportunities
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=20232A)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Tools
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1CAF03?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1CAF03?style=for-the-badge&logo=mongodb&logoColor=20232A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -100,7 +102,7 @@ open_to: Collaboration & New Opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-chima-b46b30327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-chima)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austinchima515@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/austinchima)
 
