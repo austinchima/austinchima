@@ -7,7 +7,7 @@
 I'm a recent Software Engineering graduate building production-quality backend systems,
 developer infrastructure, and secure distributed applications.
 
-Currently focused on **Go**, **TypeScript**, C#, and modern cloud-native engineering.
+Currently focused on C#, TypeScript, Go, and modern cloud engineering practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-chima)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austinchima515@gmail.com)
