@@ -24,47 +24,25 @@ Location: Canada 🇨🇦
 Current Focus:
   - Backend Engineering
   - Distributed Systems
-  - Security Engineering
+  - AI Engineering
   - Developer Infrastructure
 
 Currently Learning:
-  - Go
+  - Python
   - C#
   - Open Policy Agent (OPA)
   - Cloud-native Architecture
 
 Looking For:
   - Backend
-  - Infrastructure
-  - Platform Engineering
-  - Security Engineering
+  - Fullstack
+  - AI Engineer
+  - DevOps Engineer
 ```
 
 ---
 
 # Featured Projects
-
-## 🛡 KiteRail
-
-**Runtime policy enforcement for autonomous AI agents.**
-
-A Go-based inline security proxy that sits between AI agents and production systems to enforce deterministic policies before actions execute.
-
-**Highlights**
-
-- Inline MCP proxy
-- Open Policy Agent (OPA)
-- Human-in-the-loop approvals
-- Immutable hash-chained audit ledger
-- NATS JetStream event streaming
-- PostgreSQL
-- Docker
-
-**Stack**
-
-`Go` • `OPA` • `NATS` • `PostgreSQL` • `Docker`
-
----
 
 ## 📚 Precept
 
@@ -93,7 +71,7 @@ A production-quality full-stack application built to demonstrate authentication,
 
 ### Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,8 +81,6 @@ A production-quality full-stack application built to demonstrate authentication,
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge)
-![Open Policy Agent](https://img.shields.io/badge/OPA-7D4CDB?style=for-the-badge)
 
 ### Frontend
 
