@@ -39,32 +39,6 @@ Looking For:
   - AI Engineer
   - DevOps Engineer
 ```
-
----
-
-# Featured Projects
-
-## 📚 Precept
-
-**A secure career operating system for software engineers.**
-
-A production-quality full-stack application built to demonstrate authentication, testing, security, and backend engineering rather than simply shipping CRUD features.
-
-**Highlights**
-
-- Refresh token rotation
-- Replay attack detection
-- Cascade session revocation
-- JWT authentication
-- PostgreSQL
-- 100+ automated tests
-- Docker
-- CI/CD
-
-**Stack**
-
-`ASP.NET Core` • `React` • `TypeScript` • `PostgreSQL` • `Docker`
-
 ---
 
 ## 💻 Technologies
