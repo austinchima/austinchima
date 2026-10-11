@@ -30,7 +30,6 @@ Current Focus:
 Currently Learning:
   - Python
   - C#
-  - Open Policy Agent (OPA)
   - Cloud-native Architecture
 
 Looking For:
@@ -65,16 +64,9 @@ Looking For:
 
 # Interests
 
-I'm particularly interested in building software where **correctness matters**:
-
-- Security Engineering
-- Authorization
-- Identity
 - Distributed Systems
 - API Design
-- Developer Tooling
-- Infrastructure
-- AI Runtime Safety
+- AI Security
 
 ---
 
